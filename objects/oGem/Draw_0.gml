@@ -1,0 +1,1 @@
+draw_sprite_ext(sprGem,mySprite,x,y,1,1,rot,c_white,1);

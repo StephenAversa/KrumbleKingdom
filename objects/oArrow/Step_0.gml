@@ -1,0 +1,1 @@
+image_angle += sin(degtorad(direction - image_angle)) * rspeed;

@@ -1,0 +1,1 @@
+return place_meeting(x+argument0,y,oSolid);

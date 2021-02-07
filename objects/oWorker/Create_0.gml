@@ -1,0 +1,10 @@
+vsp = 0;
+RIGHT = 1;
+LEFT = 2;
+IDLE = 3;
+dir = choose(RIGHT,LEFT,IDLE);
+facing = RIGHT;
+alarm[0] = random_range(150, 250);
+hsp = 0;
+mvspd = 1;
+seek= false;
